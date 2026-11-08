@@ -11,17 +11,16 @@ def parse_counters():
         hero_name = item["hero"].replace("-", " ").title()
         text = item["raw_text"]
 
-        # Match pattern looking for hero names right before score, handling descriptive filler text
         matches = re.findall(r'([A-Z][a-zA-Z\s\-\'\.]+?)\s+(?:leads with|are level at|beats|has|is)\s*\+([\d\.]+)\s*pp', text)
         if not matches:
-            # Fallback pattern if filler text isn't present
+            
             matches = re.findall(r'([A-Z][a-zA-Z\s\-\'\.]+?)\s+\+([\d\.]+)\s*pp', text)
 
         counters = []
         for name, score_str in matches:
-            # Clean up the name string
+            
             clean_name = name.strip().split('\n')[-1].strip()
-            # Remove trailing verbs if captured
+            
             clean_name = re.sub(r'\s+(leads with|are level at|beats)$', '', clean_name, flags=re.IGNORECASE).strip()
             
             try:

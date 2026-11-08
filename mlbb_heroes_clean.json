@@ -1,1295 +1,5 @@
 [
   {
-    "name": "Hayabusa",
-    "countered_by": [
-      {
-        "hero": "Saber",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Fredrinn",
-        "score": 2.1,
-        "type": "Counter"
-      },
-      {
-        "hero": "Zhask and Eudora",
-        "score": 1.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Baxia",
-    "countered_by": [
-      {
-        "hero": "X.Borg",
-        "score": 5.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Luo Yi",
-        "score": 4.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lolita",
-        "score": 3.8,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Karrie",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lesley",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Nolan",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Harley",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 5.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Sun and Popol and Kupa",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Sun",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Popol and Kupa",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Franco",
-    "countered_by": [
-      {
-        "hero": "Atlas",
-        "score": 2.4,
-        "type": "Counter"
-      },
-      {
-        "hero": "Johnson and Kaja",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Karrie",
-    "countered_by": [
-      {
-        "hero": "Sun and Argus",
-        "score": 2.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Helcurt",
-    "countered_by": [
-      {
-        "hero": "Mathilda",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Obsidia",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Karina",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Hilda",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Eudora",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Harith",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 4.9,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Popol and Kupa",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Edith",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lancelot",
-    "countered_by": [
-      {
-        "hero": "Angela",
-        "score": 3.2,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Estes",
-    "countered_by": [
-      {
-        "hero": "Ixia",
-        "score": 5.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Sora",
-        "score": 4.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Luo Yi",
-        "score": 3.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Tigreal",
-        "score": 2.6,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Carmilla",
-    "countered_by": [
-      {
-        "hero": "X.Borg",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lesley",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Khaleed",
-    "countered_by": [
-      {
-        "hero": "Baxia",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Chip",
-        "score": 2.5,
-        "type": "Counter"
-      },
-      {
-        "hero": "Phoveus and Kalea",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Irithel",
-    "countered_by": [
-      {
-        "hero": "Brody",
-        "score": 2.9,
-        "type": "Counter"
-      },
-      {
-        "hero": "Saber",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Kalea",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Hylos",
-    "countered_by": [
-      {
-        "hero": "X.Borg",
-        "score": 4.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Yve",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Kimmy",
-        "score": 3.0,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Grock",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Kaja",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Badang",
-    "countered_by": [
-      {
-        "hero": "Esmeralda",
-        "score": 2.2,
-        "type": "Counter"
-      },
-      {
-        "hero": "Lolita",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Eudora",
-    "countered_by": [
-      {
-        "hero": "Atlas",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Masha",
-        "score": 2.6,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Beatrix",
-    "countered_by": [
-      {
-        "hero": "Granger",
-        "score": 2.5,
-        "type": "Counter"
-      },
-      {
-        "hero": "Saber",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Ixia",
-    "countered_by": [
-      {
-        "hero": "Wanwan",
-        "score": 4.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Natalia",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Benedetta",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Kadita",
-        "score": 2.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Arlott",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Minotaur",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lunox",
-    "countered_by": [
-      {
-        "hero": "Ruby",
-        "score": 2.1,
-        "type": "Counter"
-      },
-      {
-        "hero": "Edith",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Yu Zhong",
-    "countered_by": [
-      {
-        "hero": "Masha",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Wanwan",
-        "score": 1.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Fredrinn",
-    "countered_by": [
-      {
-        "hero": "Valir",
-        "score": 4.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alpha",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lukas",
-    "countered_by": [
-      {
-        "hero": "Baxia",
-        "score": 3.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Valentina",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Balmond",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Clint",
-    "countered_by": [
-      {
-        "hero": "Fanny",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Harith",
-        "score": 1.5,
-        "type": "Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 1.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lolita",
-    "countered_by": [
-      {
-        "hero": "Aurora",
-        "score": 6.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Esmeralda",
-        "score": 5.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Kadita",
-        "score": 5.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Clint",
-        "score": 4.8,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Minotaur",
-        "score": 4.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Leomord",
-        "score": 3.8,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Leomord",
-    "countered_by": [
-      {
-        "hero": "Valir",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Karrie",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Hanzo",
-    "countered_by": [
-      {
-        "hero": "Natalia",
-        "score": 4.6,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lapu Lapu",
-    "countered_by": [
-      {
-        "hero": "Esmeralda",
-        "score": 3.5,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Miya",
-    "countered_by": [
-      {
-        "hero": "Belerick",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Gatotkaca",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Saber",
-    "countered_by": [
-      {
-        "hero": "Balmond and Leomord",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Miya",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Baxia",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Hilda and Johnson",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Akai",
-    "countered_by": [
-      {
-        "hero": "Marcel",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 3.2,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Vexana",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 2.9,
-        "type": "Counter"
-      },
-      {
-        "hero": "Marcel",
-        "score": 2.2,
-        "type": "Counter"
-      },
-      {
-        "hero": "Benedetta and X.Borg",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Natalia",
-    "countered_by": [
-      {
-        "hero": "Cyclops",
-        "score": 4.8,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Mathilda",
-        "score": 4.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Karina",
-        "score": 4.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Paquito",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Chip",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Mathilda",
-    "countered_by": [
-      {
-        "hero": "Esmeralda",
-        "score": 4.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lolita",
-        "score": 3.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Edith",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Hilda",
-    "countered_by": [
-      {
-        "hero": "Karrie",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Esmeralda",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Atlas",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Marcel",
-    "countered_by": [
-      {
-        "hero": "Angela",
-        "score": 4.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Esmeralda",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lesley",
-        "score": 3.5,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Yve",
-    "countered_by": [
-      {
-        "hero": "Fanny",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Freya",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Harith",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Pharsa",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Lylia",
-    "countered_by": [
-      {
-        "hero": "Joy",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Chou",
-        "score": 1.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Kimmy",
-    "countered_by": [
-      {
-        "hero": "Karina",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lolita",
-        "score": 3.5,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Odette",
-    "countered_by": [
-      {
-        "hero": "Vale",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Gatotkaca",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Edith",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Zetian",
-    "countered_by": [
-      {
-        "hero": "Valentina",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Floryn",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Roger",
-    "countered_by": [
-      {
-        "hero": "Zhuxin",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Argus",
-    "countered_by": [
-      {
-        "hero": "Barats and Uranus",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Barats",
-        "score": 3.1,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Hanabi",
-    "countered_by": [
-      {
-        "hero": "Beatrix",
-        "score": 3.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lapu-Lapu",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Lylia",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Novaria",
-    "countered_by": [
-      {
-        "hero": "Natalia",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Aldous",
-        "score": 2.0,
-        "type": "Counter"
-      },
-      {
-        "hero": "Hilda and Gloo",
-        "score": 1.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Granger",
-    "countered_by": [
-      {
-        "hero": "Hilda",
-        "score": 3.0,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Kadita",
-    "countered_by": [
-      {
-        "hero": "Miya",
-        "score": 1.6,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Sun",
-    "countered_by": [
-      {
-        "hero": "Natan",
-        "score": 5.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Joy",
-        "score": 4.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Ruby",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Marcel",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Faramis",
-        "score": 3.4,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Gloo",
-    "countered_by": [
-      {
-        "hero": "Faramis",
-        "score": 6.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Moskov",
-        "score": 5.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Masha and Ruby",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Ling",
-        "score": 3.6,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Faramis",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Estes and Angela",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Edith",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Yin",
-        "score": 3.1,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Odette",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Uranus",
-    "countered_by": [
-      {
-        "hero": "Dyrroth",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Xavier",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Zilong",
-    "countered_by": [
-      {
-        "hero": "Tigreal",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Johnson and Chip",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Gatotkaca",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Eudora",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Terizla",
-    "countered_by": [
-      {
-        "hero": "Valir",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Selena",
-    "countered_by": [
-      {
-        "hero": "Chip",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Fredrinn and Phoveus",
-        "score": 1.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Sora",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Khufra",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Luo Yi",
-    "countered_by": [
-      {
-        "hero": "Joy",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Benedetta",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Bruno",
-    "countered_by": [
-      {
-        "hero": "Lesley",
-        "score": 3.0,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Floryn",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 4.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Yin",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Barats",
-    "countered_by": [
-      {
-        "hero": "X.Borg",
-        "score": 5.3,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Gord",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 3.4,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Ling",
-    "countered_by": [
-      {
-        "hero": "Natalia",
-        "score": 5.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Bruno",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Floryn",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Jawhead",
-    "countered_by": [
-      {
-        "hero": "Sun",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Gloo",
-        "score": 3.6,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Rafaela",
-    "countered_by": [
-      {
-        "hero": "Ixia",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Odette",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Sora",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Edith",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 6.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Beatrix",
-        "score": 2.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Balmond",
-    "countered_by": [
-      {
-        "hero": "Cici",
-        "score": 4.8,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Valir",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Karrie",
-        "score": 3.2,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Fanny",
-    "countered_by": [
-      {
-        "hero": "Moskov",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Badang",
-        "score": 2.7,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Martis",
-    "countered_by": [
-      {
-        "hero": "X.Borg",
-        "score": 3.8,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Aulus",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Floryn",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Bane",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 4.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Helcurt",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Kagura",
-    "countered_by": [
-      {
-        "hero": "Odette",
-        "score": 2.2,
-        "type": "Counter"
-      },
-      {
-        "hero": "Phoveus",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Zhask",
-    "countered_by": [
-      {
-        "hero": "Alice",
-        "score": 3.1,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Popol And Kupa",
-    "countered_by": [
-      {
-        "hero": "Atlas",
-        "score": 4.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 3.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Sun",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
     "name": "Silvanna",
     "countered_by": [
       {
@@ -1320,11 +30,116 @@
     ]
   },
   {
-    "name": "Nana",
+    "name": "Brody",
     "countered_by": [
       {
-        "hero": "Gloo",
+        "hero": "Masha and Barats",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Vexana",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 2.9,
+        "type": "Counter"
+      },
+      {
+        "hero": "Marcel",
+        "score": 2.2,
+        "type": "Counter"
+      },
+      {
+        "hero": "Benedetta and X.Borg",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Minotaur",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 2.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Aldous",
+    "countered_by": [
+      {
+        "hero": "Esmeralda",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Obsidia and Popol and Kupa",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Kadita",
+    "countered_by": [
+      {
+        "hero": "Miya",
+        "score": 1.6,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Pharsa",
+    "countered_by": [
+      {
+        "hero": "Natalia",
+        "score": 2.0,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Roger",
+    "countered_by": [
+      {
+        "hero": "Zhuxin",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lunox",
+    "countered_by": [
+      {
+        "hero": "Ruby",
+        "score": 2.1,
+        "type": "Counter"
+      },
+      {
+        "hero": "Edith",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Eudora",
+    "countered_by": [
+      {
+        "hero": "Atlas",
         "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Masha",
+        "score": 2.6,
         "type": "Counter"
       }
     ]
@@ -1350,56 +165,176 @@
     ]
   },
   {
-    "name": "Chip",
+    "name": "Bruno",
     "countered_by": [
       {
-        "hero": "Baxia",
-        "score": 4.8,
+        "hero": "Lesley",
+        "score": 3.0,
         "type": "Direct Counter"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Alucard",
+    "countered_by": [
       {
-        "hero": "Alice",
-        "score": 4.0,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Balmond and Martis",
-        "score": 2.5,
+        "hero": "Barats",
+        "score": 2.8,
         "type": "Counter"
       },
       {
-        "hero": "Faramis",
-        "score": 2.5,
+        "hero": "Khufra and Barats",
+        "score": 2.8,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Diggie",
+    "name": "Joy",
     "countered_by": [
       {
-        "hero": "Esmeralda",
-        "score": 3.6,
+        "hero": "Moskov",
+        "score": 4.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Estes",
-        "score": 3.5,
+        "hero": "Cyclops",
+        "score": 3.7,
         "type": "Direct Counter"
       },
       {
-        "hero": "Hanzo",
-        "score": 3.5,
+        "hero": "Fredrinn",
+        "score": 3.4,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Melissa",
+    "countered_by": [
+      {
+        "hero": "Belerick",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Harley",
+        "score": 1.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Xavier",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 3.2,
         "type": "Direct Counter"
       },
       {
-        "hero": "Sun",
+        "hero": "Natalia",
+        "score": 2.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Irithel",
+    "countered_by": [
+      {
+        "hero": "Brody",
+        "score": 2.9,
+        "type": "Counter"
+      },
+      {
+        "hero": "Saber",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Fredrinn",
+    "countered_by": [
+      {
+        "hero": "Valir",
+        "score": 4.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alpha",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Grock",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Kaja",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lylia",
+    "countered_by": [
+      {
+        "hero": "Joy",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Chou",
+        "score": 1.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Obsidia",
+    "countered_by": [
+      {
+        "hero": "Miya",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Granger",
+    "countered_by": [
+      {
+        "hero": "Hilda",
         "score": 3.0,
         "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Hayabusa",
+    "countered_by": [
+      {
+        "hero": "Saber",
+        "score": 2.6,
+        "type": "Counter"
       },
       {
-        "hero": "Popol and Kupa",
-        "score": 2.4,
+        "hero": "Fredrinn",
+        "score": 2.1,
+        "type": "Counter"
+      },
+      {
+        "hero": "Zhask and Eudora",
+        "score": 1.8,
         "type": "Counter"
       }
     ]
@@ -1440,6 +375,701 @@
     ]
   },
   {
+    "name": "Layla",
+    "countered_by": [
+      {
+        "hero": "Atlas",
+        "score": 3.6,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Faramis",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Estes and Angela",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Edith",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Yin",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Odette",
+        "score": 2.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Masha",
+    "countered_by": [
+      {
+        "hero": "Estes",
+        "score": 3.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Freya",
+        "score": 2.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Badang",
+    "countered_by": [
+      {
+        "hero": "Esmeralda",
+        "score": 2.2,
+        "type": "Counter"
+      },
+      {
+        "hero": "Lolita",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Argus",
+    "countered_by": [
+      {
+        "hero": "Barats and Uranus",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Barats",
+        "score": 3.1,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Floryn",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 4.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Yin",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Valir",
+    "countered_by": [
+      {
+        "hero": "Kaja",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Helcurt",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Harley and Novaria",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Helcurt",
+    "countered_by": [
+      {
+        "hero": "Mathilda",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Obsidia",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Karina",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Hilda",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Eudora",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Esmeralda",
+    "countered_by": [
+      {
+        "hero": "Lunox",
+        "score": 3.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Karrie",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Dyrroth",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 2.6,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Jawhead",
+    "countered_by": [
+      {
+        "hero": "Sun",
+        "score": 3.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Gloo",
+        "score": 3.6,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Vale",
+    "countered_by": [
+      {
+        "hero": "Gloo",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Hilda and Lapu-Lapu",
+        "score": 1.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Gatotkaca",
+    "countered_by": [
+      {
+        "hero": "X.Borg",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lesley",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Uranus",
+        "score": 3.0,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Aulus",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Floryn",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Chip",
+    "countered_by": [
+      {
+        "hero": "Baxia",
+        "score": 4.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 4.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Balmond and Martis",
+        "score": 2.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Faramis",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Marcel",
+    "countered_by": [
+      {
+        "hero": "Angela",
+        "score": 4.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Esmeralda",
+        "score": 3.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lesley",
+        "score": 3.5,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lolita",
+    "countered_by": [
+      {
+        "hero": "Aurora",
+        "score": 6.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Esmeralda",
+        "score": 5.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Kadita",
+        "score": 5.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Clint",
+        "score": 4.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Minotaur",
+        "score": 4.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Leomord",
+        "score": 3.8,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Kalea",
+    "countered_by": [
+      {
+        "hero": "Phoveus",
+        "score": 2.0,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Kaja",
+    "countered_by": [
+      {
+        "hero": "Odette",
+        "score": 4.6,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Ixia",
+    "countered_by": [
+      {
+        "hero": "Wanwan",
+        "score": 4.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Natalia",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Benedetta",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Kadita",
+        "score": 2.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Diggie",
+    "countered_by": [
+      {
+        "hero": "Esmeralda",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Estes",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Hanzo",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Sun",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Popol and Kupa",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Franco",
+    "countered_by": [
+      {
+        "hero": "Atlas",
+        "score": 2.4,
+        "type": "Counter"
+      },
+      {
+        "hero": "Johnson and Kaja",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Johnson",
+    "countered_by": [
+      {
+        "hero": "Gloo",
+        "score": 3.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Marcel",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Khaleed",
+        "score": 2.6,
+        "type": "Counter"
+      },
+      {
+        "hero": "Kadita",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Aurora",
+    "countered_by": [
+      {
+        "hero": "Yin",
+        "score": 2.1,
+        "type": "Counter"
+      },
+      {
+        "hero": "Belerick",
+        "score": 1.6,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Beatrix",
+    "countered_by": [
+      {
+        "hero": "Granger",
+        "score": 2.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Saber",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Thamuz",
+    "countered_by": [
+      {
+        "hero": "Cici",
+        "score": 4.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Wanwan",
+        "score": 2.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Benedetta",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Nana",
+    "countered_by": [
+      {
+        "hero": "Gloo",
+        "score": 2.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Karrie",
+    "countered_by": [
+      {
+        "hero": "Sun and Argus",
+        "score": 2.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Odette",
+    "countered_by": [
+      {
+        "hero": "Vale",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Gatotkaca",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Edith",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Barats",
+    "countered_by": [
+      {
+        "hero": "X.Borg",
+        "score": 5.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Gord",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 3.4,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Saber",
+    "countered_by": [
+      {
+        "hero": "Balmond and Leomord",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Miya",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Baxia",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Hilda and Johnson",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Hanzo",
+    "countered_by": [
+      {
+        "hero": "Natalia",
+        "score": 4.6,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Fanny",
+    "countered_by": [
+      {
+        "hero": "Moskov",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Badang",
+        "score": 2.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Ling",
+    "countered_by": [
+      {
+        "hero": "Natalia",
+        "score": 5.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Bruno",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Floryn",
+        "score": 2.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Karina",
+    "countered_by": [
+      {
+        "hero": "Granger",
+        "score": 4.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lunox",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Paquito",
+        "score": 2.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Paquito and Hirara",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Kagura",
+    "countered_by": [
+      {
+        "hero": "Odette",
+        "score": 2.2,
+        "type": "Counter"
+      },
+      {
+        "hero": "Phoveus",
+        "score": 2.0,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Mathilda",
+    "countered_by": [
+      {
+        "hero": "Esmeralda",
+        "score": 4.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lolita",
+        "score": 3.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Edith",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Selena",
+    "countered_by": [
+      {
+        "hero": "Chip",
+        "score": 2.6,
+        "type": "Counter"
+      },
+      {
+        "hero": "Fredrinn and Phoveus",
+        "score": 1.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
     "name": "Zhuxin",
     "countered_by": [
       {
@@ -1455,47 +1085,197 @@
     ]
   },
   {
-    "name": "Gusion",
+    "name": "Baxia",
     "countered_by": [
       {
-        "hero": "Lolita",
-        "score": 3.0,
+        "hero": "X.Borg",
+        "score": 5.6,
         "type": "Direct Counter"
+      },
+      {
+        "hero": "Luo Yi",
+        "score": 4.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lolita",
+        "score": 3.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Karrie",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lesley",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Nolan",
+        "score": 2.3,
+        "type": "Counter"
       }
     ]
   },
   {
-    "name": "Melissa",
+    "name": "Belerick",
     "countered_by": [
       {
-        "hero": "Belerick",
+        "hero": "Beatrix and Brody",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Cici",
+        "score": 2.9,
+        "type": "Counter"
+      },
+      {
+        "hero": "Xavier",
+        "score": 2.3,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Hanabi",
+    "countered_by": [
+      {
+        "hero": "Beatrix",
+        "score": 3.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Lapu-Lapu",
+        "score": 2.3,
+        "type": "Counter"
+      },
+      {
+        "hero": "Lylia",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Clint",
+    "countered_by": [
+      {
+        "hero": "Fanny",
+        "score": 2.6,
+        "type": "Counter"
+      },
+      {
+        "hero": "Harith",
+        "score": 1.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 1.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Zilong",
+    "countered_by": [
+      {
+        "hero": "Tigreal",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Johnson and Chip",
         "score": 2.7,
         "type": "Counter"
       },
       {
-        "hero": "Harley",
-        "score": 1.9,
+        "hero": "Gatotkaca",
+        "score": 2.3,
+        "type": "Counter"
+      },
+      {
+        "hero": "Eudora",
+        "score": 2.0,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Joy",
+    "name": "Freya",
     "countered_by": [
       {
-        "hero": "Moskov",
-        "score": 4.4,
+        "hero": "Phoveus",
+        "score": 5.2,
         "type": "Direct Counter"
       },
       {
-        "hero": "Cyclops",
-        "score": 3.7,
+        "hero": "Esmeralda and Nana",
+        "score": 1.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Franco and Baxia",
+        "score": 1.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Uranus",
+    "countered_by": [
+      {
+        "hero": "Dyrroth",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Xavier",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lancelot",
+    "countered_by": [
+      {
+        "hero": "Angela",
+        "score": 3.2,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Edith",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 6.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Fredrinn",
-        "score": 3.4,
+        "hero": "Beatrix",
+        "score": 2.7,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Luo Yi",
+    "countered_by": [
+      {
+        "hero": "Joy",
+        "score": 3.5,
         "type": "Direct Counter"
+      },
+      {
+        "hero": "Benedetta",
+        "score": 2.5,
+        "type": "Counter"
       }
     ]
   },
@@ -1530,135 +1310,35 @@
     ]
   },
   {
-    "name": "Lesley",
+    "name": "Zetian",
     "countered_by": [
       {
-        "hero": "Gloo",
-        "score": 2.8,
+        "hero": "Valentina",
+        "score": 2.3,
         "type": "Counter"
       },
       {
-        "hero": "Masha",
-        "score": 2.5,
+        "hero": "Floryn",
+        "score": 2.0,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Benedetta",
+    "name": "Hylos",
     "countered_by": [
       {
-        "hero": "Phoveus",
+        "hero": "X.Borg",
+        "score": 4.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Yve",
         "score": 3.3,
         "type": "Direct Counter"
       },
       {
-        "hero": "Obsidia",
-        "score": 2.9,
-        "type": "Counter"
-      },
-      {
-        "hero": "Mathilda",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Cyclops",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 9.4,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Change",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 5.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Esmeralda",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Atlas",
-    "countered_by": [
-      {
-        "hero": "Wanwan",
-        "score": 3.8,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 3.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Ling",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Benedetta",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Yi Sun Shin",
-    "countered_by": [
-      {
-        "hero": "Lolita",
-        "score": 2.0,
-        "type": "Counter"
-      },
-      {
-        "hero": "Odette",
-        "score": 1.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Aurora",
-    "countered_by": [
-      {
-        "hero": "Yin",
-        "score": 2.1,
-        "type": "Counter"
-      },
-      {
-        "hero": "Belerick",
-        "score": 1.6,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Wanwan",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 6.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Bruno",
-        "score": 3.4,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Cyclops",
+        "hero": "Kimmy",
         "score": 3.0,
         "type": "Direct Counter"
       }
@@ -1680,97 +1360,37 @@
     ]
   },
   {
-    "name": "Angela",
+    "name": "Yi Sun Shin",
     "countered_by": [
       {
         "hero": "Lolita",
-        "score": 3.7,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Silvanna",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Zilong",
         "score": 2.0,
         "type": "Counter"
+      },
+      {
+        "hero": "Odette",
+        "score": 1.4,
+        "type": "Counter"
       }
     ]
   },
   {
-    "name": "Nolan",
+    "name": "Ruby",
     "countered_by": [
       {
-        "hero": "Saber",
-        "score": 3.9,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Paquito",
-    "countered_by": [
-      {
-        "hero": "Esmeralda",
-        "score": 3.0,
+        "hero": "X.Borg",
+        "score": 3.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Phoveus and Fredrinn",
-        "score": 1.9,
+        "hero": "Arlott",
+        "score": 1.8,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Belerick",
-    "countered_by": [
-      {
-        "hero": "Beatrix and Brody",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Cici",
-        "score": 2.9,
-        "type": "Counter"
-      },
-      {
-        "hero": "Xavier",
-        "score": 2.3,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Natan",
-    "countered_by": [
-      {
-        "hero": "Granger",
-        "score": 2.3,
-        "type": "Counter"
-      },
-      {
-        "hero": "Nolan",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Brody",
-    "countered_by": [
-      {
-        "hero": "Masha and Barats",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Gatotkaca",
+    "name": "Carmilla",
     "countered_by": [
       {
         "hero": "X.Borg",
@@ -1779,13 +1399,83 @@
       },
       {
         "hero": "Lesley",
-        "score": 3.0,
+        "score": 2.3,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Julian",
+    "countered_by": [
+      {
+        "hero": "Guinevere",
+        "score": 2.0,
+        "type": "Counter"
+      },
+      {
+        "hero": "Tigreal",
+        "score": 1.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Suyou",
+    "countered_by": [
+      {
+        "hero": "Harith",
+        "score": 2.6,
+        "type": "Counter"
+      },
+      {
+        "hero": "Joy",
+        "score": 2.0,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Estes",
+    "countered_by": [
+      {
+        "hero": "Ixia",
+        "score": 5.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Uranus",
-        "score": 3.0,
+        "hero": "Sora",
+        "score": 4.6,
         "type": "Direct Counter"
+      },
+      {
+        "hero": "Luo Yi",
+        "score": 3.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Tigreal",
+        "score": 2.6,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Novaria",
+    "countered_by": [
+      {
+        "hero": "Natalia",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Aldous",
+        "score": 2.0,
+        "type": "Counter"
+      },
+      {
+        "hero": "Hilda and Gloo",
+        "score": 1.9,
+        "type": "Counter"
       }
     ]
   },
@@ -1830,51 +1520,41 @@
     ]
   },
   {
-    "name": "Kaja",
+    "name": "Lapu Lapu",
     "countered_by": [
       {
-        "hero": "Odette",
-        "score": 4.6,
+        "hero": "Esmeralda",
+        "score": 3.5,
         "type": "Direct Counter"
       }
     ]
   },
   {
-    "name": "Esmeralda",
+    "name": "Valentina",
     "countered_by": [
       {
-        "hero": "Lunox",
+        "hero": "Phoveus",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lukas",
+    "countered_by": [
+      {
+        "hero": "Baxia",
         "score": 3.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Karrie",
-        "score": 3.3,
+        "hero": "Valentina",
+        "score": 3.1,
         "type": "Direct Counter"
       },
       {
-        "hero": "Dyrroth",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Alice",
-        "score": 2.6,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Moskov",
-    "countered_by": [
-      {
-        "hero": "Miya",
-        "score": 2.1,
-        "type": "Counter"
-      },
-      {
-        "hero": "Dyrroth",
-        "score": 2.0,
+        "hero": "Balmond",
+        "score": 2.8,
         "type": "Counter"
       }
     ]
@@ -1905,21 +1585,56 @@
     ]
   },
   {
-    "name": "Valir",
+    "name": "Hilda",
     "countered_by": [
       {
-        "hero": "Kaja",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Helcurt",
+        "hero": "Karrie",
         "score": 3.2,
         "type": "Direct Counter"
       },
       {
-        "hero": "Harley and Novaria",
-        "score": 2.1,
+        "hero": "Esmeralda",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Atlas",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Harith",
+    "countered_by": [
+      {
+        "hero": "Phoveus",
+        "score": 4.9,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Popol and Kupa",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Edith",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Aamon",
+    "countered_by": [
+      {
+        "hero": "Gloo",
+        "score": 4.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Hayabusa",
+        "score": 2.9,
         "type": "Counter"
       }
     ]
@@ -1945,6 +1660,36 @@
     ]
   },
   {
+    "name": "Gord",
+    "countered_by": [
+      {
+        "hero": "Natalia",
+        "score": 3.2,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Chou",
+    "countered_by": [
+      {
+        "hero": "Phoveus",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Esmeralda",
+        "score": 2.5,
+        "type": "Counter"
+      },
+      {
+        "hero": "Khufra",
+        "score": 1.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
     "name": "Cecilion",
     "countered_by": [
       {
@@ -1955,56 +1700,201 @@
     ]
   },
   {
-    "name": "Johnson",
+    "name": "Nolan",
     "countered_by": [
       {
-        "hero": "Gloo",
-        "score": 3.8,
+        "hero": "Saber",
+        "score": 3.9,
         "type": "Direct Counter"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Cyclops",
+    "countered_by": [
       {
-        "hero": "Marcel",
-        "score": 3.1,
+        "hero": "Lolita",
+        "score": 9.4,
         "type": "Direct Counter"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Terizla",
+    "countered_by": [
       {
-        "hero": "Alice",
-        "score": 2.7,
-        "type": "Counter"
-      },
-      {
-        "hero": "Khaleed",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Kadita",
+        "hero": "Valir",
         "score": 2.5,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Xavier",
+    "name": "Natalia",
     "countered_by": [
       {
-        "hero": "Lolita",
-        "score": 3.2,
+        "hero": "Cyclops",
+        "score": 4.8,
         "type": "Direct Counter"
       },
       {
-        "hero": "Natalia",
+        "hero": "Mathilda",
+        "score": 4.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Karina",
+        "score": 4.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Paquito",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Chip",
         "score": 2.9,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Valentina",
+    "name": "Balmond",
+    "countered_by": [
+      {
+        "hero": "Cici",
+        "score": 4.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Valir",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Karrie",
+        "score": 3.2,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Yve",
+    "countered_by": [
+      {
+        "hero": "Fanny",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Freya",
+        "score": 3.5,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Harith",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Pharsa",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Paquito",
+    "countered_by": [
+      {
+        "hero": "Esmeralda",
+        "score": 3.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Phoveus and Fredrinn",
+        "score": 1.9,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Arlott",
     "countered_by": [
       {
         "hero": "Phoveus",
         "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Atlas",
+    "countered_by": [
+      {
+        "hero": "Wanwan",
+        "score": 3.8,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Ling",
+        "score": 3.2,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Benedetta",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Change",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 5.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Esmeralda",
+        "score": 2.3,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Moskov",
+    "countered_by": [
+      {
+        "hero": "Miya",
+        "score": 2.1,
+        "type": "Counter"
+      },
+      {
+        "hero": "Dyrroth",
+        "score": 2.0,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Tigreal",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 3.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "X.Borg",
+        "score": 2.8,
         "type": "Counter"
       }
     ]
@@ -2030,237 +1920,32 @@
     ]
   },
   {
-    "name": "Gord",
-    "countered_by": [
-      {
-        "hero": "Natalia",
-        "score": 3.2,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Guinevere",
-    "countered_by": [
-      {
-        "hero": "Wanwan",
-        "score": 3.0,
-        "type": "Direct Counter"
-      }
-    ]
-  },
-  {
-    "name": "Pharsa",
-    "countered_by": [
-      {
-        "hero": "Natalia",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Aamon",
-    "countered_by": [
-      {
-        "hero": "Gloo",
-        "score": 4.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Hayabusa",
-        "score": 2.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Vale",
-    "countered_by": [
-      {
-        "hero": "Gloo",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Hilda and Lapu-Lapu",
-        "score": 1.9,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Freya",
+    "name": "Sora",
     "countered_by": [
       {
         "hero": "Phoveus",
-        "score": 5.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Esmeralda and Nana",
-        "score": 1.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Franco and Baxia",
-        "score": 1.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Hirara",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 2.1,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Alucard",
-    "countered_by": [
-      {
-        "hero": "Barats",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Khufra and Barats",
-        "score": 2.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Julian",
-    "countered_by": [
-      {
-        "hero": "Guinevere",
-        "score": 2.0,
-        "type": "Counter"
-      },
-      {
-        "hero": "Tigreal",
-        "score": 1.8,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Aldous",
-    "countered_by": [
-      {
-        "hero": "Esmeralda",
-        "score": 3.5,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Obsidia and Popol and Kupa",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Obsidia",
-    "countered_by": [
-      {
-        "hero": "Miya",
-        "score": 2.4,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Chou",
-    "countered_by": [
-      {
-        "hero": "Phoveus",
-        "score": 2.8,
-        "type": "Counter"
-      },
-      {
-        "hero": "Esmeralda",
-        "score": 2.5,
+        "score": 2.3,
         "type": "Counter"
       },
       {
         "hero": "Khufra",
-        "score": 1.9,
+        "score": 2.3,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Karina",
+    "name": "Yu Zhong",
     "countered_by": [
       {
-        "hero": "Granger",
-        "score": 4.6,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Lunox",
-        "score": 3.2,
-        "type": "Direct Counter"
-      },
-      {
-        "hero": "Paquito",
-        "score": 2.5,
+        "hero": "Masha",
+        "score": 2.3,
         "type": "Counter"
-      },
-      {
-        "hero": "Paquito and Hirara",
-        "score": 2.5,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Thamuz",
-    "countered_by": [
-      {
-        "hero": "Cici",
-        "score": 4.6,
-        "type": "Direct Counter"
       },
       {
         "hero": "Wanwan",
-        "score": 2.5,
+        "score": 1.8,
         "type": "Counter"
-      },
-      {
-        "hero": "Benedetta",
-        "score": 2.2,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Suyou",
-    "countered_by": [
-      {
-        "hero": "Harith",
-        "score": 2.6,
-        "type": "Counter"
-      },
-      {
-        "hero": "Joy",
-        "score": 2.0,
-        "type": "Counter"
-      }
-    ]
-  },
-  {
-    "name": "Layla",
-    "countered_by": [
-      {
-        "hero": "Atlas",
-        "score": 3.6,
-        "type": "Direct Counter"
       }
     ]
   },
@@ -2285,47 +1970,252 @@
     ]
   },
   {
-    "name": "Tigreal",
+    "name": "Sun",
     "countered_by": [
       {
-        "hero": "Alice",
+        "hero": "Natan",
+        "score": 5.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Joy",
+        "score": 4.0,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Ruby",
         "score": 3.7,
         "type": "Direct Counter"
       },
       {
-        "hero": "X.Borg",
-        "score": 2.8,
-        "type": "Counter"
+        "hero": "Marcel",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Faramis",
+        "score": 3.4,
+        "type": "Direct Counter"
       }
     ]
   },
   {
-    "name": "Masha",
+    "name": "Benedetta",
     "countered_by": [
       {
-        "hero": "Estes",
-        "score": 3.4,
+        "hero": "Phoveus",
+        "score": 3.3,
         "type": "Direct Counter"
       },
       {
-        "hero": "Freya",
+        "hero": "Obsidia",
+        "score": 2.9,
+        "type": "Counter"
+      },
+      {
+        "hero": "Mathilda",
         "score": 2.9,
         "type": "Counter"
       }
     ]
   },
   {
-    "name": "Ruby",
+    "name": "Miya",
     "countered_by": [
       {
-        "hero": "X.Borg",
+        "hero": "Belerick",
+        "score": 3.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Gatotkaca",
+        "score": 2.3,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Gloo",
+    "countered_by": [
+      {
+        "hero": "Faramis",
+        "score": 6.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Moskov",
+        "score": 5.3,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Alice",
+        "score": 3.7,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Masha and Ruby",
+        "score": 3.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Ling",
+        "score": 3.6,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Wanwan",
+    "countered_by": [
+      {
+        "hero": "Phoveus",
+        "score": 6.4,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Bruno",
         "score": 3.4,
         "type": "Direct Counter"
       },
       {
-        "hero": "Arlott",
-        "score": 1.8,
+        "hero": "Cyclops",
+        "score": 3.0,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Harley",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 5.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Sun and Popol and Kupa",
+        "score": 2.8,
         "type": "Counter"
+      },
+      {
+        "hero": "Sun",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Popol and Kupa",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Natan",
+    "countered_by": [
+      {
+        "hero": "Granger",
+        "score": 2.3,
+        "type": "Counter"
+      },
+      {
+        "hero": "Nolan",
+        "score": 2.2,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Rafaela",
+    "countered_by": [
+      {
+        "hero": "Ixia",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Odette",
+        "score": 2.7,
+        "type": "Counter"
+      },
+      {
+        "hero": "Sora",
+        "score": 2.4,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Martis",
+    "countered_by": [
+      {
+        "hero": "X.Borg",
+        "score": 3.8,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Lesley",
+    "countered_by": [
+      {
+        "hero": "Gloo",
+        "score": 2.8,
+        "type": "Counter"
+      },
+      {
+        "hero": "Masha",
+        "score": 2.5,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Guinevere",
+    "countered_by": [
+      {
+        "hero": "Wanwan",
+        "score": 3.0,
+        "type": "Direct Counter"
+      }
+    ]
+  },
+  {
+    "name": "Bane",
+    "countered_by": [
+      {
+        "hero": "Lolita",
+        "score": 4.6,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Helcurt",
+        "score": 2.1,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Leomord",
+    "countered_by": [
+      {
+        "hero": "Valir",
+        "score": 3.1,
+        "type": "Direct Counter"
+      },
+      {
+        "hero": "Karrie",
+        "score": 2.8,
+        "type": "Counter"
+      }
+    ]
+  },
+  {
+    "name": "Zhask",
+    "countered_by": [
+      {
+        "hero": "Alice",
+        "score": 3.1,
+        "type": "Direct Counter"
       }
     ]
   }

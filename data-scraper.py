@@ -4,56 +4,61 @@ from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://mlbbhub.com/counter"
 
-# Put your target hero list here
-HEROES = ["fanny", "masha", "gord", "gusion"] 
+def get_all_hero_slugs(page):
+    print("[+] Fetching master hero list from mlbbhub.com/counter...")
+    page.goto("https://mlbbhub.com/counter", wait_until="domcontentloaded", timeout=60000)
+    page.wait_for_selector("a[href*='/counter/']", timeout=15000)
+    
+    # Extract all unique hero slugs from counter links on the main page
+    links = page.locator("a[href*='/counter/']").all()
+    slugs = set()
+    
+    for link in links:
+        href = link.get_attribute("href")
+        if href and "/counter/" in href:
+            slug = href.split("/counter/")[-1].strip("/")
+            if slug:
+                slugs.add(slug)
+                
+    return list(slugs)
 
-def scrape_mlbb_counters():
+def scrape_all_counters():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         
-        all_data = []
+        hero_slugs = get_all_hero_slugs(page)
+        print(f"[+] Found {len(hero_slugs)} total heroes to scrape.")
         
-        for idx, slug in enumerate(HEROES):
+        all_raw_data = []
+        
+        for idx, slug in enumerate(hero_slugs):
             url = f"{BASE_URL}/{slug}"
-            print(f"[{idx+1}/{len(HEROES)}] Fetching counters for {slug}...")
+            print(f"[{idx+1}/{len(hero_slugs)}] Scraping counter page: {url}")
             
             try:
                 page.goto(url, wait_until="networkidle", timeout=15000)
-                
-                # Wait for the counter section to load
                 page.wait_for_selector("text=PROVEN COUNTERS", timeout=5000)
                 
-                # Extract counter items
-                # We locate the left grid/container under 'PROVEN COUNTERS'
-                counter_list = []
-                
-                # Target the parent container or counter card rows
-                # From your screenshot, each item has a hero name and a score like '+3.0 pp'
-                rows = page.locator("div:has-text('PROVEN COUNTERS') ~ div, table tr, .grid > div").all()
-                
-                # Alternative clean approach: query text elements matching the page layout
-                # Grab all text blocks containing '+X.X pp'
                 body_text = page.locator("body").inner_text()
-                
-                all_data.append({
+                all_raw_data.append({
                     "hero": slug,
                     "raw_text": body_text
                 })
-                
             except Exception as e:
                 print(f"[!] Error fetching {slug}: {e}")
                 
-            time.sleep(0.5)
+            # Polite delay to prevent connection drops
+            time.sleep(0.4)
 
         with open("mlbb_raw_stats.json", "w", encoding="utf-8") as f:
-            json.dump(all_data, f, indent=4)
+            json.dump(all_raw_data, f, indent=4)
             
-        print("[+] Scraped raw data successfully!")
+        print(f"[+] Successfully saved raw data for {len(all_raw_data)} heroes to mlbb_raw_stats.json!")
         browser.close()
 
 if __name__ == "__main__":
-    scrape_mlbb_counters()
+    scrape_all_counters()
 
         
 

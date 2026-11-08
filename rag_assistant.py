@@ -13,7 +13,6 @@ def load_hero_database():
 def query_ai_with_rag(user_prompt):
     heroes = load_hero_database()
     
-    # Check if the user is asking about a specific hero's counters
     target_hero = None
     for hero in heroes:
         if hero["name"].lower() in user_prompt.lower():
@@ -21,11 +20,9 @@ def query_ai_with_rag(user_prompt):
             break
 
     if target_hero:
-        # Send that specific hero's exact counter list to keep tokens minimal
         context_data = json.dumps(target_hero, indent=2)
         print(f"\n[+] RAG Retrieval: Loaded counter matchup data for {target_hero['name']}")
     else:
-        # Fallback to a compact list of top heroes if no specific hero is named
         context_data = json.dumps(heroes[:20], indent=2)
         print(f"\n[+] RAG Retrieval: Loaded general hero database sample")
 
